@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=HwangJeongyong)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome!)
 <div>
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Platforms & Languages</p>
